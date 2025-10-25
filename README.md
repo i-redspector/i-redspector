@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah Zulfiqar</h1>
 <h3 align="center">Developer ✦ Designer ✦ Researcher ✦ CEH</h3>
 
-- I’m currently working on **Agentic Ai**
-- I’m currently learning **Crew Ai**
-- **I like to explore, Test New Things which I am not familiar with**
+- I’m currently working on **Agentic AI**
+- I’m currently learning **Crew AI**
+- **I like to try, explore, and test New Things that I am not familiar with**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
