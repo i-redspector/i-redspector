@@ -2,7 +2,7 @@
 <h3 align="center">Developer ✦ Designer ✦ Researcher ✦ CEH</h3>
 
 - I’m currently working on **Agentic AI**
-- I’m currently learning **Crew AI**
+- I’m currently researching on **Enhancing educational reach through multi agent language model collaboration**
 - **I like to try, explore, and test New Things that I am not familiar with**
   
 <h3 align="left">Connect with me:</h3>
