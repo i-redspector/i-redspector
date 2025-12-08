@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Zulfiqar</h1>
-<h3 align="center">Developer ✦ Researcher ✦ CEH ✦ AI</h3>
+<h3 align="center">Full Stack Web ✦ AI ML Expert ✦ CEH ✦ Developer</h3>
 
 - I’m currently working on **Agentic AI**
 - I’m currently researching on **Enhancing educational reach through multi agent language model collaboration**
