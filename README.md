@@ -1,11 +1,11 @@
-# Hi there 👋, I'm Abdullah Zulfiqar.
+# Greeting 👋, I'm Abdullah Zulfiqar.
 ### Senior Solutions Architect | AI Engineer | Cloud & DevSecOps Specialist
 
 I build secure, scalable, and immutable infrastructure tailored for enterprise needs. Bridging the gap between high-performance web ecosystems, Artificial Intelligence, and military-grade cybersecurity.
 
 ---
 
-### 🚀 What I Do
+### What I Do
 - **Scalable Web Ecosystems:** Architecting high-fidelity frontends (Next.js 14/16) and modular backends (Python/FastAPI, Node.js).
 - **Intelligent AI Systems:** Engineering custom LLM routing, RAG (Knowledge Bases), and predictive modeling pipelines.
 - **Cloud & Infrastructure:** Deploying zero-downtime environments on AWS/DigitalOcean with Docker and strict CI/CD.
@@ -35,7 +35,7 @@ I build secure, scalable, and immutable infrastructure tailored for enterprise n
 
 ---
 
-### ⚙️ My Engineering Guarantee
-> *"I do not build fragile code. Every system I design includes strict error handling, API timeout management, and 'Circuit Breaker' patterns to ensure zero silent failures."*
+###
+> *"My System design includes strict error handling, API timeout management, and 'Circuit Breaker' patterns to ensure zero silent failures."*
 
-📫 **Let's Connect & Build:** [Your LinkedIn/Website URL here]
+📫 **Let's Connect & Build:** 
