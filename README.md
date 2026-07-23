@@ -4,8 +4,6 @@
 
 </div>
 
-# Greeting, I'm Abdullah Zulfiqar.
-
 **Senior Solutions Architect | AI Engineer | Cloud & DevSecOps Specialist**
 
 I build secure, scalable infrastructure for enterprise needs. Bridging high-performance web ecosystems, artificial intelligence, and cybersecurity.
@@ -30,13 +28,3 @@ I build secure, scalable infrastructure for enterprise needs. Bridging high-perf
 </div>
 
 ---
-
-## GitHub Activity
-
-<div align="center">
-
-![Stats](https://github-stats-extended.vercel.app/api?username=i-redspector&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs)
-
-![Streak](https://streak-stats.demolab.com/?user=i-redspector&theme=tokyonight&hide_border=true)
-
-</div>
