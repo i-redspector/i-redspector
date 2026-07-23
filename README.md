@@ -1,29 +1,24 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Abdullah+Zulfiqar;Solutions+Architect;Building+Secure%2C+Scalable+Systems;AI+%7C+Cloud+%7C+Security)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=900&color=FFD700&center=true&vCenter=true&width=850&height=80&lines=Abdullah+Zulfiqar;Solutions+Architect;BBuilding+Secure%2C+Scalable+Systems;AI+%7C+Cloud+%7C+Security)
 
-**Solutions Architect | Full-Stack & AI Engineer | Cybersecurity (CEH v12)**<br>
-CTO @ Ai & Beyond | Software Developer @ Excedify | Founder @ Redspector Labs
-
-[![Profile Views](https://komarev.com/ghpvc/?username=i-redspector&label=Profile%20Views&color=9333EA&style=flat-square)](https://github.com/i-redspector)
-[![CEH](https://img.shields.io/badge/CEH%20v12-Certified-EC1C24?style=flat-square)](https://github.com/i-redspector)
-[![Freelancer](https://img.shields.io/badge/Freelancer-5.0%20⭐-29B2FE?style=flat-square)](https://github.com/i-redspector)
+**Full-Stack Engineer | Multi-Agent AI Developer | Cloud Architect | CEH**<br>
 
 </div>
 
 ---
 
-## 🎯 Engineering Focus & Problem Solving
-I architect **secure, scalable infrastructure** that bridges high-performance web ecosystems, multi-agent AI systems, and secure-by-design pipelines. 
+## Engineering Focus & Problem Solving
+I architect **secure, scalable infrastructure** that bridges high-performance Web ecosystems, multi-agent AI systems, and secure-by-design pipelines. 
 
-*   🏗️ **Complex Architecture:** Distributed systems, serverless setups (SST), and zero-downtime AWS deployments.
-*   🤖 **AI Integration:** Custom LLM routing, RAG pipelines, and multi-agent orchestration.
-*   🔒 **Security-First:** Penetration testing, threat modeling, and OWASP Top 10 compliance.
-*   ⚙️ **Low-Level Systems:** Android kernel diagnostics, custom ROMs, and runtime framework engineering.
+*   **AI Integration:** Agentic Ai, Custom LLM's, RAG pipelines, and Multi-agent Orchestration.
+*   **Cloud-Native Infrastructure:** Built highly available distributed systems, serverless microservices (SST), and zero-downtime AWS environments.
+*   **Cyer-Security & Red Teaming:** Penetration testing, Bug Bounty hunting, Red Teaming, threat modeling (Try Hack Me Top 10).
+*   **Low-Level Systems:** Android kernel optimization, Custom ROMs, System level UI Customiztion, LsPosed/Zygisk Module Building (KSU)(MAGISK), and runtime framework engineering.
 
 ---
 
-## 💻 Technical Arsenal
+## Technical Arsenal
 
 <div align="center">
 
