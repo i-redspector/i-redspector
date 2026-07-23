@@ -1,135 +1,188 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=280&section=header&text=Abdullah%20Zulfiqar&fontSize=80&fontColor=fff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20Systems%20%7C%20Cloud%20Architect&descAlignY=55&descSize=20&animation=fadeIn)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Abdullah+Zulfiqar;Senior+Solutions+Architect;Building+Secure%2C+Scalable+Systems;AI+%7C+Cloud+%7C+Security)
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Abdullah Zulfiqar
+# 🚀 I Build Enterprise-Grade Systems
 
-**Senior Solutions Architect | AI Engineer | Cloud & DevSecOps Specialist**
-
-I build **secure, scalable infrastructure** for enterprise needs. Bridging high-performance web ecosystems, AI systems, and military-grade cybersecurity.
+Architecting **secure, scalable infrastructure** that bridges cutting-edge AI, cloud architecture, and cybersecurity. Proven track record: **5.0⭐ Freelancer rating**, **CEH v12 certified**, **$2k-$10k+ projects delivered**.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=i-redspector&label=Profile%20Views&color=9333EA&style=flat-square)
-![Followers](https://img.shields.io/github/followers/i-redspector?label=Followers&style=flat-square)
-![CEH](https://img.shields.io/badge/CEH%20v12-Certified-EC1C24?style=flat-square)
-![Freelancer](https://img.shields.io/badge/Freelancer-5.0%20⭐-29B2FE?style=flat-square)
+| 📊 Stats | 💼 Work | 🔐 Security |
+|----------|---------|-----------|
+| **632+** GitHub commits | **5.0⭐** Freelancer rating | **CEH v12** Certified |
+| **69** active repos | **11+** successful projects | **100%** on-time delivery |
+| **4** followers | **100%** on-budget delivery | **OWASP** se
 
 </div>
 
 ---
 
-## 🎯 What I Do
+## 🎯 What Problem Do I Solve?
 
-- **Web Architecture:** Next.js, React, TypeScript, Python, Node.js
-- **AI Systems:** Custom LLM routing, RAG pipelines, multi-agent orchestration
-- **Cloud & Infrastructure:** AWS, Docker, CI/CD, zero-downtime deployments
-- **Cybersecurity:** CEH v12, penetration testing, secure-by-design architecture
+You need systems that **work reliably at scale**. Not just fun **observable end-to-end**, **zero silent failures**.
+
+I specialize in:
+- 🏗️ **Complex architecture design** (high-performance, distributed systems)
+- 🤖 **AI system integration** (LLMs, RAG, multi-agent orchest
+- ☁️ **Cloud infrastructure** (AWS, zero-downtime deployments)
+- 🔒 **Security-first engineering** (penetration testing, thre
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ What I Work With
 
 <div align="center">
 
-![Tech](https://skillicons.dev/icons?i=nextjs,react,typescript,python,fastapi,nodejs,postgresql,aws,docker,linux&theme=dark&perline=5)
+### 🎨 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-t=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?stylecss&logoColor=white)
 
-<br><br>
+### 🔧 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=foColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-thewhite)
 
-**Frontend:** Next.js · React · TypeScript · Tailwind
-**Backend:** Python (FastAPI) · Node.js · .NET
-**Database:** PostgreSQL · MongoDB · Prisma
-**Cloud:** AWS · Docker · CI/CD · Linux
-**AI/ML:** OpenAI · Anthropic · LLM Routing · RAG
-**Security:** CEH v12 · VAPT · Secure Design
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=forlor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?sresql&logoColor=white)
+
+### 🤖 AI & ML
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?styite)
+![LLM](https://img.shields.io/badge/LLM%20Routing-9333EA?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF6B6B?sty
+
+### 🔒 Security
+![CEH](https://img.shields.io/badge/CEH%20v12-EC1C24?style=for-the-badge&logoColor=white)
+![VAPT](https://img.shields.io/badge/Penetration%20Testing-FF0
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 💎 Recent Work
 
-| Project | Description |
-|---------|-------------|
-| **🏥 AI Receptionist** | Healthcare clinic receptionist using multi-agent LLMs — 5,000+ calls/month, 92% satisfaction |
-| **🚗 Car Rental Platform** | Full-stack booking system with real-time inventory, Stripe integration, mobile-responsive |
-| **💡 Lead Generation** | AI research: scraped 5,000+ researchers → 869 verified leads with institution data |
-| **🖥️ CAD Tool (Excedify)** | Professional 2D drafting interface with precision tools and GD&T symbol support |
-| **⚡ Thermal Solver** | HPC optimization: 100x speedup using MPI, OpenMP, CUDA on massive grids |
-| **💾 S3 Storage Module** | Production .NET utility for enterprise data pipelines with zero memory leaks |
+### 🏥 AI Receptionist System
+**Status:** Production | **Client:** Healthcare clinics
+
+Automated phone system handling 5,000+ monthly calls using mul routing, intelligent appointment booking.
+
+**Tech:** FastAPI · OpenAI/Anthropic · PostgreSQL · AWS Lambda
 
 ---
 
-## 📊 GitHub Stats
+### 🚗 Car Rental Booking Platform
+**Status:** Production | **Client:** Cool Breeze Cars
+
+Full-stack platform with real-time vehicle availability, dynamic pricing, fleet management, Stripe integration.
+
+**Tech:** Next.js · React · Stripe · PostgreSQL · AWS · Docker
+
+---
+
+### 💡 AI Research Lead Generation
+**Scale:** 869 verified leads from 5,000+ researchers
+
+Scraped, verified, and structured AI researcher database (emais, cross-references).
+
+**Tech:** Python · Web scraping · Data processing · Automation
+
+---
+
+### 🖥️ Web-Based CAD Tool (Excedify)
+**Status:** Production | **Type:** Enterprise UI/UX
+
+Professional 2D drafting interface with precision tools, annotations, GD&T symbols, export functionality.
+
+**Tech:** React · TypeScript · Canvas API · Geometry processing
+
+---
+
+### ⚡ High-Performance Thermal Solver
+**Impact:** 100x speedup on complex simulations
+
+Optimized HPC system using MPI (distributed), OpenMP (threadinnamics.
+
+**Tech:** C++ · MPI · OpenMP · CUDA · GPU acceleration
+
+---
+
+### 💾 Enterprise S3 Storage Module
+**Deployment:** Production data pipelines
+
+Lightweight .NET utility handling file operations, compression, JSON processing with zero memory leaks.
+
+**Tech:** C# · .NET · AWS S3 · Enterprise-grade
+
+---
+
+## 📈 Proof of Work
 
 <div align="center">
 
-![Stats](https://github-stats-extended.vercel.app/api?username=i-redspector&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=i-redspector&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Streak](https://streak-stats.demolab.com/?user=i-redspector&theme=tokyonight&hide_border=true)
 
-![Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=i-redspector&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
-**632+ contributions** · **69 repositories** · **Pull Shark | YOLO | Quickdraw**
+**Consistency:** 632+ commits in last year | **Breadth:** 69 active repositories | **Quality:** Pull Shark, YOLO, Quickdraw badges
 
 ---
 
-## 💼 Why Work With Me?
+## 🎖️ Why You Should Work With Me
 
-✅ **Proven Track Record**
-- 5.0 rating on Freelancer (11+ reviews)
-- 100% on-time, 100% on-budget delivery
-- CTO at AI & Beyond (scaling startup)
-
-✅ **Enterprise-Grade Quality**
-- Zero-downtime architecture
-- Circuit breaker patterns
-- Full system observability
-- OWASP Top 10 secured
-
-✅ **High-Ticket Capable**
-- $2k-$10k+ project experience
-- Complex system design
-- AI/ML integration expertise
-- DevSecOps implementation
-
-✅ **Rare Skill Combination**
-- Full-stack + AI + Cloud + Security
-- Few engineers offer this breadth
-- Proven execution across all domains
+| Dimension | What You Get |
+|-----------|--------------|
+| **Execution** | 100% on-time, 100% on-budget delivery (11+ projects) |
+| **Quality** | Enterprise-grade systems, security-first desig
+| **Depth** | Full-stack + AI + Cloud + Security (rare combination) |
+| **Reliability** | 5.0⭐ Freelancer rating, proven track reco
+| **Communication** | Clear requirements → transparent execution → delivered results |
+| **Scalability** | $2k-$10k+ projects, complex architecture,
 
 ---
 
-## 🎓 Certifications & Credentials
+## 🧠 My Philosophy
 
-![CEH](https://img.shields.io/badge/CEH%20v12-EC-1C24?style=for-the-badge&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+"Zero Silent Failures"
+
+Every system I build includes:
+✅ Strict error handling & timeouts
+✅ Circuit breaker patterns
+✅ Full observability & monitoring
+✅ Graceful degradation
+✅ Audit trails for compliance
 
 ---
 
-## 🧠 Philosophy
+## 💬 Let's Talk
 
-> **"Zero Silent Failures"** — My systems use strict error handling, circuit breaker patterns, and observability-first design. Every failure is tracked, every timeout is managed, every edge case is handled.
-
----
-
-## 🤝 Let's Build Together
-
-**Best for:** High-ticket projects, complex architecture, AI integration, security-critical systems
+**Best for:** High-ticket projects, complex systems, AI integration, security-critical work
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/💬%20Email%20Me-D14836?style=for-the-badge)](mailto:redspectorlabs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-abdullah-zulfiqar-)
-[![Telegram](https://img.shields.io/badge/Message%20on%20Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/redspectorlabs)
-[![GitHub](https://img.shields.io/badge/See%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-redspector)
+### 🔗 Get in Touch
+
+[![Email](https://img.shields.io/badge/📧%20Email-redspectorlabs%40gmail.com-D14836?style=for-the-badge)](mailto:redspectorlabs@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Abdullah%20Zulfiqar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/-abdullah-z
+ulfiqar-)
+
+[![Telegram](https://img.shields.io/badge/💬%20Telegram-%40redthe-badge&logo=telegram)](https://t.me/redspectorlabs)
+
+[![GitHub](https://img.shields.io/badge/💻%20GitHub-i--redspece&logo=github)](https://github.com/i-redspector)
 
 </div>
 
@@ -137,8 +190,14 @@ I build **secure, scalable infrastructure** for enterprise needs. Bridging high-
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=120&section=footer&text=Ship%20Fast%20%7C%20Break%20Nothing&fontSize=25&fontColor=fff&fontAlignY=75)
+**Open to:** Contract projects · Consulting · Partnerships · H
 
-**Always learning. Always shipping. Always secure. 🚀**
+**Response time:** 24 hours or less
+
+**Timezone:** GMT+5 (Pakistan)
+
+---
+
+*Ship fast. Break nothing. Always secure.* 🚀
 
 </div>
