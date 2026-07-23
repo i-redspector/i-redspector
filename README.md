@@ -1,8 +1,17 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=900&color=FFD700&center=true&vCenter=true&width=850&height=80&lines=Abdullah+Zulfiqar;Solutions+Architect;BBuilding+Secure%2C+Scalable+Systems;AI+%7C+Cloud+%7C+Security)
+# Abdullah Zulfiqar
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Engineer;Multi-Agent+AI+Developer;Cloud+Architect+%7C+CEH)
 
 **Full-Stack Engineer | Multi-Agent AI Developer | Cloud Architect | CEH**<br>
+CTO @ Ai & Beyond | Software Developer @ Excedify | Founder @ Redspector Labs
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=i-redspector&label=Profile%20Views&color=ffffff&style=flat-square)](https://github.com/i-redspector)
+[![CEH](https://img.shields.io/badge/CEH%20v12-Certified-000000?style=flat-square&logo=security&logoColor=white)](https://github.com/i-redspector)
+[![Freelancer](https://img.shields.io/badge/Freelancer-5.0%20⭐-ffffff?style=flat-square&logo=freelancer&logoColor=black)](https://github.com/i-redspector)
 
 </div>
 
@@ -18,61 +27,57 @@ I architect **secure, scalable infrastructure** that bridges high-performance We
 
 ---
 
-## Technical Arsenal
+## Engineering Stack
 
 <div align="center">
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white) |
-| **Cloud & DevOps**| ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **AI & ML** | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/-Anthropic-000000?style=flat-square&logo=anthropic&logoColor=white) ![LLM](https://img.shields.io/badge/-LLM%20Routing-9333EA?style=flat-square) ![RAG](https://img.shields.io/badge/-RAG%20Pipelines-FF6B6B?style=flat-square) |
-| **Security** | ![CEH](https://img.shields.io/badge/-CEH%20v12-EC1C24?style=flat-square) ![VAPT](https://img.shields.io/badge/-Penetration%20Testing-FF0000?style=flat-square) ![OWASP](https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=flat-square) |
+
+| Domain | Primary Stack | Ecosystem & Tools |
+| :--- | :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Cloud & CI/CD** | ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Serverless SST](https://img.shields.io/badge/-Serverless_SST-E27152?style=flat-square) | ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Data & Vector** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white) ![Chroma DB](https://img.shields.io/badge/-Chroma_DB-FF7F50?style=flat-square) |
+| **AI & Vision** | ![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=flat-square) ![RAG Pipelines](https://img.shields.io/badge/-RAG_Pipelines-FF6B6B?style=flat-square) | ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Security & Systems**| ![CEH v12](https://img.shields.io/badge/-CEH%20v12-EC1C24?style=flat-square) ![OWASP](https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=flat-square) | ![DevSecOps](https://img.shields.io/badge/-DevSecOps-0052CC?style=flat-square) ![Android Kernel](https://img.shields.io/badge/-Kernel%20%2F%20Zygisk-3DDC84?style=flat-square&logo=android&logoColor=white) |
 
 </div>
 
 ---
 
-## 🚀 Featured Architecture & Projects
+## Featured Architecture & Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **🤖 [Edu-agent-fyp-m3atron](https://github.com/i-redspector/Edu-agent-fyp-m3atron)** | Python, LLMs, Vector DBs | Multi-Agent AI Tutoring System utilizing advanced LLM routing and branch protection for complex agent interactions. |
-| **⚡ [Hermes Gateway Bot](https://github.com/i-redspector/hermes-agent)** | Node.js, Cron, WebSockets | Cross-platform messaging and automated cron-scheduling bot platform with privileged intents configuration. |
-| **📱 UVC Camera Mapping** | Zygisk, LSPosed, C++ | Engineered a runtime framework to intercept native Android camera calls and redirect video streams to external USB UVC hardware. |
-| **🖥️ Enterprise CAD Tool** | React, Canvas API, TS | Professional 2D drafting interface with precision tools and GD&T symbol support built for Excedify. |
-| **🏥 AI Receptionist** | FastAPI, OpenAI, AWS Lambda | Healthcare multi-agent phone system handling 5,000+ monthly calls with 92% automated resolution. |
+| **M3ATRON: Multi-Agentic AI System** | Python, LangGraph, Chroma DB | Autonomous multi-agent ecosystem utilizing stateful LLM routing, RAG pipelines, and complex agent interactions. |
+| **Enterprise CAD & PLM Tool** | Next.js 16, React 19, Canvas API | Built for Excedify: Professional 2D drafting engine with precision GD&T tools, APQP management, and AWS serverless CI/CD. |
+| **Autonomous AI Voice Receptionist** | FastAPI, OpenAI, AWS Lambda | Healthcare multi-agent phone system processing 5,000+ monthly calls with real-time booking and 92% automated resolution. |
+| **Android UVC Camera Framework** | Zygisk, LSPosed, C++, JNI | Engineered a low-level runtime framework to intercept native Android camera calls and seamlessly redirect streams to external USB hardware. |
 
 ---
 
-## 📈 Proof of Execution
+## Proof of Execution
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=i-redspector&show_icons=true&theme=tokyonight&hide_border=true) ![Streak](https://streak-stats.demolab.com/?user=i-redspector&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=i-redspector&theme=tokyonight&background=1a1b26&border=1a1b26&ring=ffffff&fire=FFD700&currStreakNum=ffffff&sideNums=ffffff&dates=9aa5ce&hide_border=true" width="100%" />
 
-**632+ commits** · **69 active repos** · **11+ enterprise projects** · **100% on-time/on-budget delivery**
+## Top-Rated Architect · 11+ Enterprise Projects · 100% On-Time/On-Budget Delivery
 
 </div>
 
----
-
-## 🧠 Philosophy: "Zero Silent Failures"
-My systems are built on strict error handling, circuit breaker patterns, and observability-first design. Every failure is tracked, every timeout is managed, and every edge case is handled gracefully.
-
----
-
-## 🤝 Let's Build Together
+## Let's Build Together
 
 **Best for:** High-ticket architecture, AI integration, serverless scaling, and security-critical systems.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redspectorlabs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-abdullah-zulfiqar-)
-[![Telegram](https://img.shields.io/badge/Message-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/redspectorlabs)
+<br>
 
-*Ship fast. Break nothing. Always secure.* 🚀
+[![Email](https://img.shields.io/badge/Email_Me-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:redspectorlabs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/-abdullah-zulfiqar-)
+[![Telegram](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/redspectorlabs)
+
+<br>
 
 </div>
