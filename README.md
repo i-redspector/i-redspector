@@ -4,14 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Engineer;Multi-Agent+AI+Developer;Cloud+Architect+%7C+CEH)
 
-**Full-Stack Engineer | Multi-Agent AI Developer | Cloud Architect | CEH**<br>
-CTO @ Ai & Beyond | Software Developer @ Excedify | Founder @ Redspector Labs
-
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=i-redspector&label=Profile%20Views&color=ffffff&style=flat-square)](https://github.com/i-redspector)
-[![CEH](https://img.shields.io/badge/CEH%20v12-Certified-000000?style=flat-square&logo=security&logoColor=white)](https://github.com/i-redspector)
-[![Freelancer](https://img.shields.io/badge/Freelancer-5.0%20⭐-ffffff?style=flat-square&logo=freelancer&logoColor=black)](https://github.com/i-redspector)
+**Full-Stack Engineer | Multi-Agent AI Developer | Cloud Architect | CEH**
 
 </div>
 
@@ -65,6 +58,8 @@ I architect **secure, scalable infrastructure** that bridges high-performance We
 ## Top-Rated Architect · 11+ Enterprise Projects · 100% On-Time/On-Budget Delivery
 
 </div>
+
+---
 
 ## Let's Build Together
 
