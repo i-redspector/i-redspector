@@ -53,14 +53,14 @@ I engineer **high-performance web applications** and **production-grade Multi-Ag
 
 | Metric | Status / Value | Verification |
 | :--- | :--- | :--- |
-| **Freelance Rating** | ⭐ 5.0 / 5.0 (11+ Enterprise Reviews) | [Verified Freelancer](https://www.freelancer.com/u/redspector) |
+| **Client Satisfaction** | ⭐ 5.0 / 5.0 (11+ Enterprise Reviews) | Top-Rated Track Record |
 | **Project Delivery** | 🎯 100% On-Time & 100% On-Budget | Production Deployments |
 | **Core Architecture** | 🤖 Multi-Agent Systems & Next.js 16 | Enterprise Standard |
 | **Cloud Infrastructure** | ⚡ Zero-Downtime AWS Serverless (SST) | Production Live |
 
 <br>
 
-![Freelancer Rating](https://img.shields.io/badge/Freelancer.com-5.0%20%E2%98%85%20(100%25%20Delivery)-007FED?style=for-the-badge&logo=freelancer&logoColor=white)
+![Client Rating](https://img.shields.io/badge/Client_Rating-5.0_%E2%98%85_(100%25_Delivery)-007FED?style=for-the-badge)
 ![Production Systems](https://img.shields.io/badge/Production%20Systems-11%2B%20Deployed-success?style=for-the-badge)
 ![Code Quality](https://img.shields.io/badge/Architecture-Clean%20%26%20Scalable-FFD700?style=for-the-badge)
 
@@ -78,7 +78,6 @@ I engineer **high-performance web applications** and **production-grade Multi-Ag
 
 [![Email](https://img.shields.io/badge/Email_Me-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:redspectorlabs@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/-abdullah-zulfiqar-)
-[![Freelancer](https://img.shields.io/badge/Freelancer-ffffff?style=for-the-badge&logo=freelancer&logoColor=007FED)](https://www.freelancer.com/u/redspector)
 [![Telegram](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/redspectorlabs)
 
 <br>
