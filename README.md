@@ -2,68 +2,67 @@
 
 # Abdullah Zulfiqar
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Engineer;Multi-Agent+AI+Developer;Cloud+Architect+%7C+CEH)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=900&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Web+%26+AI+Engineer;Multi-Agent+AI+Orchestration;Autonomous+Workflows+%26+FastAPI;High-Performance+Next.js+Applications)
 
-**Full-Stack Engineer | Multi-Agent AI Developer | Cloud Architect | CEH**
+**Full-Stack Web & AI Engineer | Next.js 16 • FastAPI • Multi-Agent Systems**
 
 </div>
 
 ---
 
-## Engineering Focus & Problem Solving
-I architect **secure, scalable infrastructure** that bridges high-performance Web ecosystems, multi-agent AI systems, and secure-by-design pipelines. 
+## ⚡ Engineering Focus & Problem Solving
+I engineer **high-performance web applications** and **production-grade Multi-Agent AI systems** designed for scale, resilience, and autonomous workflow execution.
 
-*   **AI Integration:** Agentic Ai, Custom LLM's, RAG pipelines, and Multi-agent Orchestration.
-*   **Cloud-Native Infrastructure:** Built highly available distributed systems, serverless microservices (SST), and zero-downtime AWS environments.
-*   **Cyer-Security & Red Teaming:** Penetration testing, Bug Bounty hunting, Red Teaming, threat modeling (Try Hack Me Top 10).
-*   **Low-Level Systems:** Android kernel optimization, Custom ROMs, System level UI Customiztion, LsPosed/Zygisk Module Building (KSU)(MAGISK), and runtime framework engineering.
+* 🤖 **Multi-Agent AI & Workflows:** Agentic architectures, LangGraph orchestration, RAG pipelines, pgvector search, and autonomous business workflows.
+* 🌐 **Full-Stack Web Systems:** Next.js (App Router), React, TypeScript, Tailwind CSS, high-converting UX, and interactive WebGL shaders.
+* ☁️ **Backend & Cloud Infrastructure:** FastAPI, Python, REST & SSE streaming APIs, serverless microservices (SST), and zero-downtime AWS environments.
+* ⚙️ **Low-Level & Runtime Systems:** Android kernel optimization, custom ROMs, LSPosed/Zygisk module development (KernelSU/Magisk), and native framework hooks.
 
 ---
 
-## Engineering Stack
+## 🛠️ Engineering Stack
 
 <div align="center">
-
 
 | Domain | Primary Stack | Ecosystem & Tools |
 | :--- | :--- | :--- |
 | **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Cloud & CI/CD** | ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Serverless SST](https://img.shields.io/badge/-Serverless_SST-E27152?style=flat-square) | ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Data & Vector** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white) ![Chroma DB](https://img.shields.io/badge/-Chroma_DB-FF7F50?style=flat-square) |
-| **AI & Vision** | ![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=flat-square) ![RAG Pipelines](https://img.shields.io/badge/-RAG_Pipelines-FF6B6B?style=flat-square) | ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| **Security & Systems**| ![CEH v12](https://img.shields.io/badge/-CEH%20v12-EC1C24?style=flat-square) ![OWASP](https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=flat-square) | ![DevSecOps](https://img.shields.io/badge/-DevSecOps-0052CC?style=flat-square) ![Android Kernel](https://img.shields.io/badge/-Kernel%20%2F%20Zygisk-3DDC84?style=flat-square&logo=android&logoColor=white) |
+| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![REST/SSE](https://img.shields.io/badge/-SSE_Streaming-000000?style=flat-square) |
+| **AI & Multi-Agent** | ![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=flat-square) ![RAG Pipelines](https://img.shields.io/badge/-RAG_Pipelines-FF6B6B?style=flat-square) | ![Chroma DB](https://img.shields.io/badge/-Chroma_DB-FF7F50?style=flat-square) ![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Cloud & CI/CD** | ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Serverless SST](https://img.shields.io/badge/-Serverless_SST-E27152?style=flat-square) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
+| **Low-Level / Systems**| ![KernelSU](https://img.shields.io/badge/-KernelSU-3DDC84?style=flat-square&logo=android&logoColor=white) ![Zygisk](https://img.shields.io/badge/-Zygisk_Module-0052CC?style=flat-square) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JNI](https://img.shields.io/badge/-JNI_Hooks-000000?style=flat-square) |
 
 </div>
 
 ---
 
-## Featured Architecture & Projects
+## 🚀 Featured Architecture & Production Deployments
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **M3ATRON: Multi-Agentic AI System** | Python, LangGraph, Chroma DB | Autonomous multi-agent ecosystem utilizing stateful LLM routing, RAG pipelines, and complex agent interactions. |
+| **M3ATRON: Multi-Agentic AI System** | Python, LangGraph, Chroma DB | Autonomous multi-agent ecosystem utilizing stateful LLM routing, RAG pipelines, and complex agent orchestration. |
 | **Enterprise CAD & PLM Tool** | Next.js 16, React 19, Canvas API | Built for Excedify: Professional 2D drafting engine with precision GD&T tools, APQP management, and AWS serverless CI/CD. |
 | **Autonomous AI Voice Receptionist** | FastAPI, OpenAI, AWS Lambda | Healthcare multi-agent phone system processing 5,000+ monthly calls with real-time booking and 92% automated resolution. |
-| **Android UVC Camera Framework** | Zygisk, LSPosed, C++, JNI | Engineered a low-level runtime framework to intercept native Android camera calls and seamlessly redirect streams to external USB hardware. |
+| **Android UVC Camera Framework** | Zygisk, LSPosed, C++, JNI | Engineered low-level runtime framework to intercept native Android camera hooks and seamlessly redirect streams to external USB hardware. |
 
 ---
 
-## Proof of Execution
+## 📊 Proof of Execution
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=i-redspector&theme=tokyonight&background=1a1b26&border=1a1b26&ring=ffffff&fire=FFD700&currStreakNum=ffffff&sideNums=ffffff&dates=9aa5ce&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=i-redspector&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=c9d1d9&icon_color=FFD700" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-redspector&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=c9d1d9" alt="Top Languages" width="48%" />
 
-## Top-Rated Architect · 11+ Enterprise Projects · 100% On-Time/On-Budget Delivery
+### 🌟 Top-Rated Engineer · 11+ Production Systems · 100% Delivery Track Record
 
 </div>
 
 ---
 
-## Let's Build Together
+## 🤝 Let's Build Together
 
-**Best for:** High-ticket architecture, AI integration, serverless scaling, and security-critical systems.
+**Best for:** Production-grade AI systems, multi-agent workflows, Next.js SaaS applications, and serverless architectures.
 
 <div align="center">
 
