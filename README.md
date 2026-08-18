@@ -2,7 +2,7 @@
 
 # Abdullah Zulfiqar
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=900&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Web+%26+AI+Engineer;Multi-Agent+AI+Orchestration;Autonomous+Workflows+%26+FastAPI;High-Performance+Next.js+Applications)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=900&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Web+%26+AI+Engineer;Multi-Agent+AI+Orchestration;Autonomous+Workflows+%26+FastAPI;High-Performance+Next.js+Applications)
 
 **Full-Stack Web & AI Engineer | Next.js 16 • FastAPI • Multi-Agent Systems**
 
@@ -36,25 +36,33 @@ I engineer **high-performance web applications** and **production-grade Multi-Ag
 
 ---
 
-## 🚀 Featured Architecture & Production Deployments
+## 🚀 Featured Architecture & Deployments
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **M3ATRON: Multi-Agentic AI System** | Python, LangGraph, Chroma DB | Autonomous multi-agent ecosystem utilizing stateful LLM routing, RAG pipelines, and complex agent orchestration. |
-| **Enterprise CAD & PLM Tool** | Next.js 16, React 19, Canvas API | Built for Excedify: Professional 2D drafting engine with precision GD&T tools, APQP management, and AWS serverless CI/CD. |
+| **Enterprise CAD & PLM Tool** | Next.js 16, React 19, Canvas API | Professional 2D drafting engine with precision GD&T tools, APQP management, and AWS serverless CI/CD. |
 | **Autonomous AI Voice Receptionist** | FastAPI, OpenAI, AWS Lambda | Healthcare multi-agent phone system processing 5,000+ monthly calls with real-time booking and 92% automated resolution. |
 | **Android UVC Camera Framework** | Zygisk, LSPosed, C++, JNI | Engineered low-level runtime framework to intercept native Android camera hooks and seamlessly redirect streams to external USB hardware. |
 
 ---
 
-## 📊 Proof of Execution
+## 📊 Proof of Execution & Milestones
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=i-redspector&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=c9d1d9&icon_color=FFD700" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-redspector&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=c9d1d9" alt="Top Languages" width="48%" />
+| Metric | Status / Value | Verification |
+| :--- | :--- | :--- |
+| **Freelance Rating** | ⭐ 5.0 / 5.0 (11+ Enterprise Reviews) | [Verified Freelancer](https://www.freelancer.com/u/redspector) |
+| **Project Delivery** | 🎯 100% On-Time & 100% On-Budget | Production Deployments |
+| **Core Architecture** | 🤖 Multi-Agent Systems & Next.js 16 | Enterprise Standard |
+| **Cloud Infrastructure** | ⚡ Zero-Downtime AWS Serverless (SST) | Production Live |
 
-### 🌟 Top-Rated Engineer · 11+ Production Systems · 100% Delivery Track Record
+<br>
+
+![Freelancer Rating](https://img.shields.io/badge/Freelancer.com-5.0%20%E2%98%85%20(100%25%20Delivery)-007FED?style=for-the-badge&logo=freelancer&logoColor=white)
+![Production Systems](https://img.shields.io/badge/Production%20Systems-11%2B%20Deployed-success?style=for-the-badge)
+![Code Quality](https://img.shields.io/badge/Architecture-Clean%20%26%20Scalable-FFD700?style=for-the-badge)
 
 </div>
 
@@ -70,6 +78,7 @@ I engineer **high-performance web applications** and **production-grade Multi-Ag
 
 [![Email](https://img.shields.io/badge/Email_Me-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:redspectorlabs@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/-abdullah-zulfiqar-)
+[![Freelancer](https://img.shields.io/badge/Freelancer-ffffff?style=for-the-badge&logo=freelancer&logoColor=007FED)](https://www.freelancer.com/u/redspector)
 [![Telegram](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/redspectorlabs)
 
 <br>
