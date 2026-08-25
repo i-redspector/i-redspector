@@ -10,18 +10,18 @@
 
 ---
 
-## ⚡ Engineering Focus
+## What i do 
 I build AI systems that hold up under real usage — multi-agent workflows, RAG pipelines with grounded citations, and the full-stack + cloud engineering to run them in production. The part I focus on is the part most people skip: evaluating outputs, handling adversarial and messy inputs, capping cost, and designing systems that degrade gracefully instead of failing loudly.
 
-* 🤖 **Multi-Agent AI & RAG:** LangGraph orchestration, RAG with pgvector, streaming (SSE) APIs, and the evals/observability to know when they actually work.
-* 🌐 **Full-Stack Web:** Next.js (App Router), React, TypeScript, Tailwind — shipping the product, not just the model.
-* ☁️ **Backend & Cloud:** FastAPI, Python, REST/SSE APIs, serverless on AWS (SST), task queues, and reliable infrastructure.
-* ⚙️ **Systems Depth:** Android internals — Zygisk/LSPosed, C++/JNI, native framework hooks — when a problem genuinely needs that level.
-* 🔐 **Security-Aware:** Certified Ethical Hacker (CEH); I threat-model my own systems and don't treat the network boundary as a security layer.
+*  **Multi-Agent AI & RAG:** LangGraph orchestration, RAG with pgvector, streaming (SSE) APIs, and the evals/observability to know when they actually work.
+*  **Full-Stack Web:** Next.js (App Router), React, TypeScript, Tailwind — shipping the product, not just the model.
+*  **Backend & Cloud:** FastAPI, Python, REST/SSE APIs, serverless on AWS (SST), task queues, and reliable infrastructure.
+*  **Systems Depth:** Android internals — Zygisk/LSPosed, C++/JNI, native framework hooks — when a problem genuinely needs that level.
+*  **Security-Aware:** Certified Ethical Hacker (CEH); I threat-model my own systems and don't treat the network boundary as a security layer.
 
 ---
 
-## 🛠️ Engineering Stack
+##  Stack i Work with
 
 <div align="center">
 
@@ -37,12 +37,12 @@ I build AI systems that hold up under real usage — multi-agent workflows, RAG 
 
 ---
 
-## 🚀 Selected Projects
+##  Featured Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **M3ATRON — Multi-Agent AI Tutor** | Python · LangGraph · FastAPI · pgvector | Multi-agent tutoring engine with role-specialized agents, grounded RAG, and real-time SSE token streaming — built to degrade gracefully (untrusted-input handling + model fallback). |
-| **Excedify — Enterprise PLM & APQP** | Next.js 16 · React 19 · AWS Serverless | Enterprise Product Lifecycle Management + APQP compliance platform: multi-tenant RBAC, 2D drafting/GD&T tooling, and LLM document extraction. *(Contract work.)* |
+| **Excedify — Enterprise PLM & APQP** | Next.js 16 · React 19 · AWS Serverless | Enterprise Product Lifecycle Management + APQP compliance platform: multi-tenant RBAC, 2D drafting/GD&T tooling, and LLM document extraction. |
 | **AI Voice Receptionist** | FastAPI · Twilio · OpenAI | Production voice agent for a dental clinic — handles live appointment calls (booking, rescheduling, FAQ) via real-time function calling. |
 | **Android UVC Camera Framework** | Zygisk · LSPosed · C++ · JNI | Low-level runtime framework intercepting native Android camera hooks to redirect streams to external USB hardware. |
 
