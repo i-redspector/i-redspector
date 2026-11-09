@@ -4,7 +4,7 @@
 
 I build AI workflows and web applications, then measure how they perform on real workloads.
 
-[Portfolio](https://abdullah-zulfiqar.vercel.app/) · · [LinkedIn](https://www.linkedin.com/in/-abdullah-zulfiqar-/)
+[My Portfolio](https://abdullah-zulfiqar.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/-abdullah-zulfiqar-/)
 
 ## What I work on
 
