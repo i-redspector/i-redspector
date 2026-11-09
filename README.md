@@ -2,7 +2,7 @@
 
 **Applied AI & Full-Stack Engineer**
 
-I build AI workflows and web applications, then measure how they perform on real workloads.
+I’m Abdullah Zulfiqar, an applied AI and full-stack engineer in Lahore, Pakistan. I publish here as **i-redspector**. My work includes the Galahad inference benchmark and the M3ATRON tutoring backend. [About Abdullah Zulfiqar](https://abdullah-zulfiqar.vercel.app/about)
 
 [My Portfolio](https://abdullah-zulfiqar.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/-abdullah-zulfiqar-/)
 
