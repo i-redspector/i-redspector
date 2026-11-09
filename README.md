@@ -4,7 +4,7 @@
 
 I build AI workflows and web applications, then measure how they perform on real workloads.
 
-[Portfolio](https://abdullah-zulfiqar.vercel.app/) · [Freelancer](https://www.freelancer.com/u/redspector) · [LinkedIn](https://www.linkedin.com/in/-abdullah-zulfiqar-/)
+[Portfolio](https://abdullah-zulfiqar.vercel.app/) · · [LinkedIn](https://www.linkedin.com/in/-abdullah-zulfiqar-/)
 
 ## What I work on
 
@@ -39,4 +39,4 @@ Certified Ethical Hacker (CEH) · Google Cybersecurity · Google IT Support
 
 Based in Pakistan. Available for AI workflow integration, full-stack product delivery, and LLM evaluation projects.
 
-Explore the [case studies](https://abdullah-zulfiqar.vercel.app/portfolio) or [start a conversation on Freelancer](https://www.freelancer.com/u/redspector) with your use case, existing stack, and main blocker.
+Explore the [case studies](https://abdullah-zulfiqar.vercel.app/portfolio) with your use case, existing stack, and main blocker.
