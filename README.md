@@ -6,6 +6,16 @@ I’m Abdullah Zulfiqar, an applied AI and full-stack engineer in Lahore, Pakist
 
 [My Portfolio](https://abdullah-zulfiqar.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/-abdullah-zulfiqar-/)
 
+<!-- git-koi:start -->
+<p align="center">
+  <a href="https://github.com/yalongwastaken/git-koi">
+    <img src="koi/koi.gif" width="256" alt="My animated koi, shaped by my public GitHub activity" />
+  </a>
+  <br />
+  <sub>My GitHub activity, as a koi · updates daily</sub>
+</p>
+<!-- git-koi:end -->
+
 ## What I work on
 
 - **AI Workflow Integration:** document-grounded assistants, RAG pipelines, multi-agent workflows, and API/CRM integrations.
