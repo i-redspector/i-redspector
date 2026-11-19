@@ -2,9 +2,7 @@
 
 **Applied AI & Full-Stack Engineer**
 
-I’m Abdullah Zulfiqar, an applied AI and full-stack engineer in Lahore, Pakistan. I publish here as **i-redspector**. My work includes the Galahad inference benchmark and the M3ATRON tutoring backend. [About Abdullah Zulfiqar](https://abdullah-zulfiqar.vercel.app/about)
-
-[My Portfolio](https://abdullah-zulfiqar.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/-abdullah-zulfiqar-/)
+I’m Abdullah Zulfiqar, an applied AI and full-stack engineer in Pakistan. I publish here as **i-redspector**. My work includes the Galahad inference benchmark and the M3ATRON tutoring backend.
 
 <!-- git-koi:start -->
 <p align="center">
@@ -49,4 +47,6 @@ Certified Ethical Hacker (CEH) · Google Cybersecurity · Google IT Support
 
 Based in Pakistan. Available for AI workflow integration, full-stack product delivery, and LLM evaluation projects.
 
-Explore the [case studies](https://abdullah-zulfiqar.vercel.app/portfolio) with your use case, existing stack, and main blocker.
+[Portfolio Website](https://abdullah-zulfiqar.vercel.app/about)
+
+[LinkedIn](https://www.linkedin.com/in/-abdullah-zulfiqar-/)
