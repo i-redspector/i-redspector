@@ -47,6 +47,6 @@ Certified Ethical Hacker (CEH) · Google Cybersecurity · Google IT Support
 
 Based in Pakistan. Available for AI workflow integration, full-stack product delivery, and LLM evaluation projects.
 
-[Portfolio Website](https://abdullah-zulfiqar.vercel.app/about)
+[Portfolio Website](https://abdullah-zulfiqar.vercel.app/)
 
 [LinkedIn](https://www.linkedin.com/in/-abdullah-zulfiqar-/)
